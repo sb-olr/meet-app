@@ -1,3 +1,6 @@
+#serverless config
+config.json
+
 # Compiled class file
 *.class
 
